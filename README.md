@@ -22,14 +22,3 @@ Entrego código limpio, documentado y listo para trabajar en equipo.
 
 En construcción. Lo que suba aquí estará explicado y documentado
 para que cualquier desarrollador pueda entenderlo y usarlo desde el primer día.
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelprieto7&show_icons=true&theme=dark&hide_border=true&hide_title=true)
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-prieto-dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mprieto.1996@gmail.com)
-
-
